@@ -107,7 +107,7 @@ While similar steps, the current state puts the cart before the horse, while Out
 We’ve seen that there are two main types of stakeholders from whom buy-in is needed to accomplish goals: Builders and Funders.
 
 - **Builders:** Builders have the knowledge, tools, and viewpoint to be able to execute on community decisions and deliverables towards a community goal.
-- **Funders: **Funders are members of a community and believe a certain goal would be beneficial for the community, but they might not have the skill set needed. As funders, they can use their unique perspective to influence governance by funding the initiatives they believe in.
+- **Funders:** Funders are members of a community and believe a certain goal would be beneficial for the community, but they might not have the skill set needed. As funders, they can use their unique perspective to influence governance by funding the initiatives they believe in.
 
 We’ve designed Outcome Coalitions to allow both builders and funders to coordinate around an outcome or initiative. We then use a double opt-in process to create a check and balance between both the stakeholders.
 
@@ -117,7 +117,7 @@ We’ve designed Outcome Coalitions to allow both builders and funders to coordi
 
 Below is the framework we believe enables this:
 
-**Step 1: **Create a Coalition
+**Step 1:** Create a Coalition
 
 ![alt_text](images/oc-propose-step.png "image_tooltip")
 
@@ -125,7 +125,7 @@ Bob creates an Outcome Coalition X. This is essentially proposing a new idea and
 
 - An example of this might be “Create additional educational content on our DAO to help with the onboarding of new members”
 
-**Step 2: **Stake and Spend on a Coalition
+**Step 2:** Stake and Spend on a Coalition
 
 ![alt_text](images/oc-step2.png "image_tooltip")
 
@@ -137,7 +137,7 @@ This is represented in two ways:
 - Funders donate their funds to the project, showing that they’re willing to fund the project. When a funder funds a project, they receive a corresponding amount of voting tokens to vote on a specific proposal (more on proposals later).
   - Funders can donate either value points earned in the movement model or normal tokens. Ultimately it’s up to what the builders are willing to accept as credible funding.
 
-**Step 3: **Spenders vote on the Completion Proposal
+**Step 3:** Spenders vote on the Completion Proposal
 
 ![alt_text](images/oc-voting.png)
 
@@ -151,7 +151,7 @@ If they vote for a proposal that the builders don’t agree with, the builders c
 
 This creates a double “opt-in” process for both builders and funders.
 
-**Step 4: **Stakers receive Stake + Funding Bonus
+**Step 4:** Stakers receive Stake + Funding Bonus
 
 ![alt_text](images/oc-fund-builders.png "image_tooltip")
 
