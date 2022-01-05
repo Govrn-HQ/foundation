@@ -16,9 +16,9 @@ This means the main question is, what do you want to be defined by.
 
 ## 🌞 What we're about
 
-We believe that anything that governs you, should should be able to govern. We believe that this is true for everything from your local PTA, to your online club, to your Governor, and all the way up to your national politicians.
+We believe that anything that governs you, you should be able to govern. We believe that this is true for everything from your local PTA, to your online club, to your Governor, and all the way up to your national politicians.
 
-Anything that governs you, you should be able to govern. That is what true partnership. It means changing governance and politics from something that is "extractive" or "zero sum" and turning it into "collaborative" and "positive sum".
+Anything that governs you, you should be able to govern. That is what true partnership is. It means changing governance and politics from something that is "extractive" or "zero sum" and turning it into "collaborative" and "positive sum".
 
 We know that the vision and philosophy of DAOs, Open Source, and Decentralization can enable that. It's our goal to help bring that vision to reality.
 
@@ -34,7 +34,7 @@ This repo has a couple several folders and sections to pay attention to:
    1. Contribution Proposals: These are ideas, proposals, and initiatives that both the core Govrn Team the community comes up with (these are similar to bounties). Submitting a proposal is open to anyone and everyone. Currently completing a proposal is open to the public, but in the future we will require you to have "joined" the Govrn Movement (dw, it's permissionless to join 😎 )
    2. Bugs: Bugs are questions, concerns, or thoughts that anyone in the community has. Are you concerned with our incentive model? Submit an issue. Maybe you don't understand why we started Govrn? Submit an issue. This is the place for all your questions.
    3. Change Requests: Change requests are requests you can make to modify any section of this repo. We know that sometimes before you are ready to submit a PR and change our actual docs, it's helpful to talk ideas out. Submit an issue to create a discussion around a potential PR you're thinking of submitting.
-4. **Govrn Community Initiatives:** Within the Govrn Community, Govrn members are running and leading their own initiatives. Sometimes these are related to our products, and others they're just initiatives that our community finds interesting. We want to provide the structure and support to any of our members that want to start and lead and initiative. Find our current initiatives you can join listed in this folder, or suggest a new one by submitting a `Contribution Proposal` in the Issues section.
+4. **Govrn Community Initiatives:** Within the Govrn Community, Govrn members are running and leading their own initiatives. Sometimes these are related to our products, and others they're just initiatives that our community finds interesting. We want to provide the structure and support to any of our members that want to start and lead an initiative. Find our current initiatives you can join listed in this folder, or suggest a new one by submitting a `Contribution Proposal` in the Issues section.
 
 ## Other Links
 
