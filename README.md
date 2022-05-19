@@ -38,7 +38,7 @@ This repo has a couple several folders and sections to pay attention to:
 
 ## Other Links
 
-Since we've started, we've developed lots of content. Below is a consolidated section of all we've prodouced and important materials you should read through:
+Since we've started, we've developed lots of content. Below is a consolidated section of all we've produced and important materials you should read through:
 
 - [White Paper](https://github.com/Govrn-HQ/white-paper)
 - [Community Substack](https://govrnance.substack.com/)
